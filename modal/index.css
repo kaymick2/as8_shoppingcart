@@ -1,5 +1,7 @@
 * {
   box-sizing: border-box;
+  transition: all ease 1s;
+
 }
 
 body {
@@ -11,5 +13,5 @@ body {
   -moz-osx-font-smoothing: grayscale;
   color: #2f2d2b;
   background-color: #eeeded;
-  text-align: center;
+  transition: all ease 1s;
 }
